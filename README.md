@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anmolchoudhary2602@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12sHjLcDzcpaLuOz-Lu_hozxA2EUUWttG/view?usp=sharing](https://drive.google.com/file/d/12sHjLcDzcpaLuOz-Lu_hozxA2EUUWttG/view?usp=sharing)
+- 📄 Know about my experiences ([https://drive.google.com/file/d/12sHjLcDzcpaLuOz-Lu_hozxA2EUUWttG/view?usp=sharing](https://drive.google.com/file/d/1ZcSkf2AD4ecI3eS7PRdMXDuTZZVlQXhl/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
