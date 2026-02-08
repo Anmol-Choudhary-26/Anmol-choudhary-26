@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmol-choudhary-26&label=Profile%20views&color=0e75b6&style=flat" alt="anmol-choudhary-26" /> </p>
 
-- 🌱 I’m currently learning **Nextjs, Astro**
+- 🌱 I’m currently learning **ASP.NET Web API**
 
-- 💬 Ask me about **JavaScript, Reactjs**
+- 💬 Ask me about **JavaScript, React.js, Vue.js**
 
 - 📫 How to reach me **anmolchoudhary2602@gmail.com**
 
