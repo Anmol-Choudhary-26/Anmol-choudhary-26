@@ -12,10 +12,10 @@
     <a href="mailto:anmolchoudhary2602@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://drive.google.com/file/d/12sHjLcDzcpaLuOz-Lu_hozxA2EUUWttG/view?usp=sharing" target="_blank">
+    <a href="[https://drive.google.com/file/d/12sHjLcDzcpaLuOz-Lu_hozxA2EUUWttG/view?usp=sharing](https://drive.google.com/file/d/1b-Q78Zaj4lVGwUiNFyRSpfanWcdtzS10/view?usp=sharing)" target="_blank">
       <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=anmol-choudhary-26&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+   
   </p>
 </div>
 
