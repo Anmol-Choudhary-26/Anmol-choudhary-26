@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-As an elite frontend developer, I don't just write code—I craft seamless, high-performance, and visually stunning digital products. I specialize in the modern JavaScript ecosystem, focusing on React and modern CSS architecture to build scalable, reactive UIs.
+As an Software developer Engineer, I don't just write code—I craft seamless, high-performance, and visually stunning digital products. I specialize in the modern JavaScript ecosystem, focusing on React and modern CSS architecture to build scalable, reactive UIs.
 
 - 🏗️ **Currently Building:** High-performance web applications using **React.js, Next.js, and Tailwind CSS**.
 - 🌱 **Currently Exploring:** Advanced frontend state management, micro-frontends, and **ASP.NET Web API** to expand my full-stack capabilities.
